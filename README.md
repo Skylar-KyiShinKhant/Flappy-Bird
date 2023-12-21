@@ -1,5 +1,5 @@
 # Flappy-Bird
-Flippy Bird is an endless runner game where players must guide a bird through obstacles by making it ascend. The objective is to achieve the longest flight possible while avoiding obstacles like pipes.
+Flappy Bird is an endless runner game where players must guide a bird through obstacles by making it ascend. The objective is to achieve the longest flight possible while avoiding obstacles like pipes.
 
 <details> 
 <summary>Table of Contents</summary>
@@ -17,7 +17,17 @@ Flippy Bird is an endless runner game where players must guide a bird through ob
 </details>
 
 ## About The Project
-![GIF]()
+### Game Instructions
+
+Flying Controls: Press the __Space Bar__ to make the bird fly.
+
+Replay: To restart the game after the bird collides, press the __Enter__ key.
+
+Scoring: Score is determined by the number of pipes (both upper and lower) the bird successfully flies through.
+
+Enjoy the game!
+
+![Flappy-Bird.gif](https://github.com/Skylar-KyiShinKhant/Flappy-Bird/blob/main/Flappy-Bird.gif)
 
 ## Built with
 - C#
@@ -46,4 +56,4 @@ Distributed under the MIT License. See ```LICENSE.txt``` for more information.
 ## Contact
 <p>Name : Skylar Kyi Shin Khant</p>
 <p>Email : kyishinkhant2003@gmail.com</p>
-<p>Project Link : https://github.com/Skylar-KyiShinKhant/Tic-Tac-Toe.git</p>
+<p>Project Link : https://github.com/Skylar-KyiShinKhant/Flappy-Bird.git</p>
