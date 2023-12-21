@@ -4,7 +4,7 @@ Flappy Bird is an endless runner game where players must guide a bird through ob
 <details> 
 <summary>Table of Contents</summary>
   
-- [About The Project]()
+- [About The Project](#about-the-project)
 - [Built with](#built-with)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
